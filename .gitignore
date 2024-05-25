@@ -6,6 +6,5 @@ __pycache__
 *.pdf
 *.pptx
 .dev
-mac/
 venvs/
 .DS_Store

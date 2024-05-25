@@ -1,6 +1,11 @@
 # Logging setup
 $logFile = "$PWD/logging/installer.log"
 function InitializeLog {
+    # Create logging directory if it doesn't exist
+    if (-not (Test-Path -Path $logDirectory)) {
+        New-Item -ItemType Directory -Path $logDirectory -Force
+    }
+
     $logContent = @"
 This is the log file for Mouse Mover's installer.
 

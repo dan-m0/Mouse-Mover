@@ -3,9 +3,16 @@ import time
 from datetime import datetime
 
 # Setup the log
-log_path = "logging/mouse_mover.log"
+log_dir = "logging"
+log_file = "/mouse_mover.log"
 
-if os.path.exists(log_path):
+log_path = log_dir + log_file
+
+# Check if the logging directory exists, if not, create it
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+
+if os.path.exists(log_dir):
     mode = "a"  # If the file exists, append mode (adds to the file)
 else:
     mode = "w"  # If the file doesn't exist, write mode (creates a new file)

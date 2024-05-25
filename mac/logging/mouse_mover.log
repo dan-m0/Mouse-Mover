@@ -1,0 +1,46 @@
+
+
+Logging started: 2024-05-25 09:01:31.676
+___________________________________________
+Date Time 		 Code	Message
+___________________________________________
+2024-05-25 09:01:31.676 	 0 	 Logging setup successful! Checking imports... 
+2024-05-25 09:01:31.903 	 12 	 Import successful! 
+2024-05-25 09:01:31.904 	 0 	 datetime formatting successful! Setting variables... 
+2024-05-25 09:01:31.920 	 12 	 Variable setting successful! Starting loop... 
+2024-05-25 09:01:31.920 	 6 	 Loop started successfully! Program running... 
+2024-05-25 09:01:31.920 	 9 	 Cursor moved 
+2024-05-25 09:01:32.021 	 9 	 Cursor moved 
+2024-05-25 09:01:32.123 	 9 	 Cursor moved 
+2024-05-25 09:01:32.225 	 8 	 Cursor not moved 
+2024-05-25 09:01:32.328 	 8 	 Cursor not moved 
+2024-05-25 09:01:32.434 	 8 	 Cursor not moved 
+2024-05-25 09:01:32.536 	 8 	 Cursor not moved 
+2024-05-25 09:01:32.645 	 9 	 Cursor moved 
+2024-05-25 09:01:32.749 	 9 	 Cursor moved 
+2024-05-25 09:01:32.851 	 8 	 Cursor not moved 
+2024-05-25 09:01:32.953 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.056 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.158 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.260 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.366 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.468 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.570 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.673 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.776 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.878 	 8 	 Cursor not moved 
+2024-05-25 09:01:33.984 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.086 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.188 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.290 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.393 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.495 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.601 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.703 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.806 	 8 	 Cursor not moved 
+2024-05-25 09:01:34.908 	 8 	 Cursor not moved 
+2024-05-25 09:01:35.010 	 8 	 Cursor not moved 
+2024-05-25 09:01:35.019 	 7 	 Loop stopped successfully! Program exiting... 
+2024-05-25 09:01:35.019 	 5 	 User exited program by keyboard interrupt.
+Logging ended: 2024-05-25 09:01:35.019,  
+End of log 
