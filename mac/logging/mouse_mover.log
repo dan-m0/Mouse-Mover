@@ -44,3 +44,87 @@ ___________________________________________
 2024-05-25 09:01:35.019 	 5 	 User exited program by keyboard interrupt.
 Logging ended: 2024-05-25 09:01:35.019,  
 End of log 
+
+
+Logging started: 2024-05-25 09:05:27.855
+___________________________________________
+Date Time 		 Code	Message
+___________________________________________
+2024-05-25 09:05:27.856 	 0 	 Logging setup successful! Checking imports... 
+2024-05-25 09:05:28.086 	 12 	 Import successful! 
+2024-05-25 09:05:28.086 	 0 	 datetime formatting successful! Setting variables... 
+2024-05-25 09:05:28.102 	 12 	 Variable setting successful! Starting loop... 
+2024-05-25 09:05:28.102 	 6 	 Loop started successfully! Program running... 
+2024-05-25 09:05:28.102 	 8 	 Cursor not moved 
+2024-05-25 09:05:28.203 	 9 	 Cursor moved 
+2024-05-25 09:05:28.305 	 9 	 Cursor moved 
+2024-05-25 09:05:28.407 	 9 	 Cursor moved 
+2024-05-25 09:05:28.509 	 8 	 Cursor not moved 
+2024-05-25 09:05:28.612 	 9 	 Cursor moved 
+2024-05-25 09:05:28.717 	 9 	 Cursor moved 
+2024-05-25 09:05:28.825 	 9 	 Cursor moved 
+2024-05-25 09:05:28.926 	 9 	 Cursor moved 
+2024-05-25 09:05:29.028 	 8 	 Cursor not moved 
+2024-05-25 09:05:29.132 	 9 	 Cursor moved 
+2024-05-25 09:05:29.235 	 9 	 Cursor moved 
+2024-05-25 09:05:29.337 	 9 	 Cursor moved 
+2024-05-25 09:05:29.440 	 9 	 Cursor moved 
+2024-05-25 09:05:29.542 	 8 	 Cursor not moved 
+2024-05-25 09:05:29.643 	 8 	 Cursor not moved 
+2024-05-25 09:05:29.744 	 8 	 Cursor not moved 
+2024-05-25 09:05:29.846 	 8 	 Cursor not moved 
+2024-05-25 09:05:29.952 	 8 	 Cursor not moved 
+2024-05-25 09:05:30.054 	 9 	 Cursor moved 
+2024-05-25 09:05:30.155 	 9 	 Cursor moved 
+2024-05-25 09:05:30.258 	 9 	 Cursor moved 
+2024-05-25 09:05:30.360 	 9 	 Cursor moved 
+2024-05-25 09:05:30.463 	 9 	 Cursor moved 
+2024-05-25 09:05:30.565 	 9 	 Cursor moved 
+2024-05-25 09:05:30.669 	 9 	 Cursor moved 
+2024-05-25 09:05:30.772 	 9 	 Cursor moved 
+2024-05-25 09:05:30.875 	 9 	 Cursor moved 
+2024-05-25 09:05:30.977 	 9 	 Cursor moved 
+
+
+Logging started: 2024-05-25 09:06:47.789
+___________________________________________
+Date Time 		 Code	Message
+___________________________________________
+2024-05-25 09:06:47.789 	 0 	 Logging setup successful! Checking imports... 
+2024-05-25 09:06:47.789 	 14 	 !RELAX THIS ISN'T A VIRUS, YOU JUST DIDN'T FOLLOW THE INSTRUCTIONS CORRECTLY!
+
+
+
+What's wrong then?    
+
+    pyautoGUI failed to import!
+
+What is pyautoGUI?
+
+    pyautoGUI is a library (see https://www.linkedin.com/pulse/python-libraries-comprehensive-guide-most-widely-used-ajay-tiwari-8o5ic/)
+
+    In this program, it is what moves the mouse around the screen.
+
+Okay... How do I get it?
+
+    Press and hold the windows key, at the same time press R, then type in "powershell" and press enter.
+    
+    Paste the following command into the powershell window and press enter:
+    
+    PowerShell.exe -ExecutionPolicy Bypass -File .\install_mouse_mover.ps1
+    
+    Please run install_mouse_mover.ps1 which can be found in the same directory as this script, as it was downloaded.
+    
+    If you cannot find 
+
+    The installer is designed to run in many Windows environments, and should fully setup this program to be run as expected.
+
+    The installer is designed to run in corporate environments, where there may be complications to installing software.
+
+    It will also run as expected on a personal computer.
+
+    This program will NOT run correctly without running the installer.
+
+
+Logging ended: 2024-05-25 09:06:47.789
+End of log 

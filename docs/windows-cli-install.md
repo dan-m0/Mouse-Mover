@@ -14,6 +14,7 @@ To use the Windows command line tool follow these steps
 
 3. Follow the installer prompts, it will tell you what to do next
 
+Once the program is installed and running, 
 
 ## It didn't work!
 

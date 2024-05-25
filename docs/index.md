@@ -35,8 +35,10 @@
   <h3 align="center">Idle Blocker</h3>
 
   <p align="center">
-    A collection of scripts to prevent idle mode in applications, such as MS Teams
+    A  program to prevent idle mode in applications, such as MS Teams
     <br />
+    <a href="https://nyxtryx.github.io/Mouse-Mover/guides/guides">User Guides</a>
+    ·
     <a href="https://nyxtryx.github.io/mouse-mover/guides/report-a-bug">Report Bug</a>
     ·
     <a href="https://nyxtryx.github.io/mouse-mover/guides/report-a-bug">Request Feature</a>
