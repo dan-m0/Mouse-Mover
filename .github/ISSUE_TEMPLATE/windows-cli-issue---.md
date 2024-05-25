@@ -1,8 +1,8 @@
 ---
-name: "Windwow CLI: Bug report \U0001F41E"
+name: "Windwow CLI: Bug report"
 about: Create a bug report
 title: ''
-labels: bug
+labels: bug, "Windows>CLI"
 assignees: ''
 
 ---
