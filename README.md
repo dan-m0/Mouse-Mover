@@ -4,8 +4,6 @@
 *** 
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -22,15 +20,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO 
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
--->
+</div>
+
 <div>
   <h3 align="center">Idle Blocker</h3>
 
@@ -42,21 +37,17 @@
     <a href="https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug">Report Bug</a>
     ·
     <a href="https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug">Request Feature</a>
+    ·
+    <a href="https://nyxtryx.github.io/Mouse-Mover/license">License</a>
+
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about">About</a></li>
     <li><a href="#setup">Setup</a></li>
-    <ul>
-        <li><a href='#windows-setup'>Windows</a></li>
-        <li><a href='#macos-setup'>MacOS</a></li>
-    </ul>
     <li><a href='#log-codes'>Log Codes</a></li>
     <li><a href='#compatibility'>Compatibility</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -64,8 +55,6 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
-
-<br />
 
 ## About
 
@@ -77,43 +66,29 @@ If you move the mouse, the program pauses.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<br />
-
-
 # Setup
-
 [Installation Instructions](https://nyxtryx.github.io/Mouse-Mover/)
 
-<br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Log Codes
+[Log Codes](https://nyxtryx.github.io/Mouse-Mover/guides/log-codes)
 
-(Log Codes)[https://nyxtryx.github.io/Mouse-Mover/guides/log-codes]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Compatibility
-
 Coming soon!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Roadmap
 <!-- ❌   ✅  �-->
-
-
-
-<br />
-<br />
+[Roadmap](https://nyxtryx.github.io/Mouse-Mover/guides/features)
 
 See the [open issues](https://github.com/nyxtryx/Mouse-Mover/issues) for a full list of suggested features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -129,42 +104,26 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/othneildrew/MouseMover/blob/master/LICENSE.txt) for more information.
+Distributed under the MIT License. See [here](https://nyxtryx.github.io/Mouse-Mover/license) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
-## Contact
-
-<a href=nyxtryx@dontsp.am> Email me</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br />
-<br />
-<br />
-<br />
-
-Please also see https://github.com/nyxtryx/mouse-mover/blob/master/images/credit.csv
+Please also see https://nyxtryx.github.io/Mouse-Mover/credit.txt
 
 <!-- MARKDOWN LINKS -->
-[contributors-shield]: https://img.shields.io/github/contributors/nyxtryx/mouse-mover.svg?style=for-the-badge
-[contributors-url]: https://github.com/nyxtryx/mouse-mover/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nyxtryx/mouse-mover.svg?style=for-the-badge
-[forks-url]: https://github.com/nyxtryx/mouse-mover/network/members
-[stars-shield]: https://img.shields.io/github/stars/nyxtryx/mouse-mover.svg?style=for-the-badge
-[stars-url]: https://github.com/nyxtryx/mouse-mover/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nyxtryx/mouse-mover.svg?style=for-the-badge
-[issues-url]: https://github.com/nyxtryx/mouse-mover/issues
-[license-shield]: https://img.shields.io/github/license/nyxtryx/mouse-mover.svg?style=for-the-badge
-[license-url]: https://github.com/nyxtryx/mouse-mover/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/nyxtryx/Mouse-Mover.svg?style=for-the-badge
+[contributors-url]: https://github.com/nyxtryx/Mouse-Mover/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nyxtryx/Mouse-Mover.svg?style=for-the-badge
+[forks-url]: https://github.com/nyxtryx/Mouse-Mover/network/members
+[stars-shield]: https://img.shields.io/github/stars/nyxtryx/Mouse-Mover.svg?style=for-the-badge
+[stars-url]: https://github.com/nyxtryx/Mouse-Mover/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nyxtryx/Mouse-Mover.svg?style=for-the-badge
+[issues-url]: https://github.com/nyxtryx/Mouse-Mover/issues
+[license-shield]: https://img.shields.io/github/license/nyxtryx/Mouse-Mover.svg?style=for-the-badge
+[license-url]: https://github.com/nyxtryx/Mouse-Mover/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dan-mcc/
 [windows-cli-install-guide]: https://nyxtryx.github.io/Mouse-Mover/guides/windows-cli-install

@@ -10,6 +10,8 @@ Please read the license; contributors to this program are NOT liable in the even
 
 ## Installation steps
 1. Download [Download Windows folder][windows-cli-download-url] and save into your downloads folder
+    1. You will need a GitHub account to use this
+    2. Alternatively, you can download individual files [here](https://github.com/nyxtryx/Mouse-Mover/tree/main/windows) - you will need ALL of these files
 2. Double click on install_mouse_mover.ps1
     1. If the installer fails to run:
     2. Press and hold the Windows key at the same time, press R

@@ -9,6 +9,8 @@ Please read the license; contributors to this program are NOT liable in the even
 ```
 
 1. Download [these files](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fnyxtryx%2FMouse-Mover%2Ftree%2Fmain%2Fmac)
+    1. You will need a GitHub account for this
+    2. Alternatively, you can download individual files [here](https://github.com/nyxtryx/Mouse-Mover/tree/main/mac) - you will need ALL of these files
 2. Go to where you saved the files
 3. At the bottom of the Finder window, right click on mac
 4. Select Open in Terminal
