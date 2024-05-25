@@ -194,7 +194,7 @@ If a feature cannot be implimented it will be marked with ❌
 If a feature has been superseded by a better feature, it will be marked with �
 
 
-If a feature doesn't work as expected, please [create an issue]()
+If a feature doesn't work as expected, please [report this here][bug-reporting]
 
 <details><summary>Windows</summary>
 - [x] Windows CLI Mouse Mover
@@ -241,7 +241,8 @@ If a feature doesn't work as expected, please [create an issue]()
 
 <br />
 <br />
-See the [open issues](https://github.com/nyxtryx/MouseMover/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/nyxtryx/Mouse-Mover/issues) for a full list of suggested features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -301,6 +302,6 @@ Please also see https://github.com/nyxtryx/mouse-mover/blob/master/images/credit
 [license-url]: https://github.com/nyxtryx/mouse-mover/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dan-mcc/
-[windows-cli-install-guide]: https://github.com/nyxtryx/mouse-mover/blob/master/guides/windows/windows-cli-install.md
-[bug-reporting]: https://nyxtryx.github.io/mouse-mover/guides/report-a-bug
-[setup]: https://nyxtryx.github.io/mouse-mover/guides/#setup
+[windows-cli-install-guide]: https://nyxtryx.github.io/Mouse-Mover/guides/windows-cli-installer/windows-cli-install
+[bug-reporting]: https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug/report-a-bug
+[setup]: https://nyxtryx.github.io/Mouse-Mover#setup

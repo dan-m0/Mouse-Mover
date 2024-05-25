@@ -1,5 +1,10 @@
 # Issue reporting
 
+## **Please search issues before reporting. If you create a duplicate issue it will be closed**
+
+<br />
+<br />
+
 ## Feature requests
 
 Request a feature [here][feature-request]
