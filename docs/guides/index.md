@@ -4,7 +4,7 @@
 
 ## Bug Reporting
 
-You can find out how to report bugs [here](https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug/report-a-bug)
+You can find out how to report bugs [here](https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug)
 
 ## Windows
 
