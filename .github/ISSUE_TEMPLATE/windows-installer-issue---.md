@@ -1,5 +1,5 @@
 ---
-name: "Bug report \U0001F41E"
+name: "Windows CLI Installer: Bug report"
 about: Create a bug report
 labels: bug, "Windows>CLI Installer"
 tite: "Windows CLI Installer Issue: <REPLACE THIS WITH A *SHORT* SUMMARY>"
