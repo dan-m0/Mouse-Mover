@@ -197,7 +197,8 @@ try:
                 message="Cursor not moved",
             )
 
-            if time.time() - last_move_time >= 2:
+            # check if it's been 60 seconds since the last move
+            if time.time() - last_move_time >= 60:
                 move_cursor()
                 last_move_time = time.time()
 

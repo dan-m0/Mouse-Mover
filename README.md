@@ -70,7 +70,7 @@
 
 This started because of [this Reddit post](https://www.reddit.com/r/workfromhome/comments/1cx7ayd/how_do_i_know_if_my_screen_time_is_monitored/) - I'd been looking for something to prevent my own work laptop showing me idle on MS Teams whenever I walked away for 5 minutes, and the post prompted me to create this.
 
-The program will automatically move your mouse, within your screen, every 4 minutes.
+The program will automatically move your mouse, within your screen, every minute.
 
 If you move the mouse, the program pauses.
 
