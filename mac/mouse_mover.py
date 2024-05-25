@@ -1,4 +1,5 @@
 import os
+import subprocess
 import time
 from datetime import datetime
 
@@ -246,15 +247,11 @@ What is pyautoGUI?
 
 Okay... How do I get it?
 
-    Press and hold the windows key, at the same time press R, then type in "powershell" and press enter.
+    Please run the installer mac-installer.bash
     
-    Paste the following command into the powershell window and press enter:
+    You will need to make this executable.
     
-    PowerShell.exe -ExecutionPolicy Bypass -File .\\install_mouse_mover.ps1
-    
-    Please run install_mouse_mover.ps1 which can be found in the same directory as this script, as it was downloaded.
-    
-    If you cannot find 
+    Please see for how to do thi
 
     The installer is designed to run in many Windows environments, and should fully setup this program to be run as expected.
 
@@ -284,7 +281,8 @@ End of log""",
     # Open the file
     import os
 
-    os.startfile("run_the_installer!.txt")
+    subprocess.run(["open", "run_the_installer!.txt"])
+
 
 except Exception as e:
     log_message(

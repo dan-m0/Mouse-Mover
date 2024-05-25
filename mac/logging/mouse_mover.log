@@ -1,130 +1,35 @@
 
 
-Logging started: 2024-05-25 09:01:31.676
+Logging started: 2024-05-25 09:49:40.083
 ___________________________________________
 Date Time 		 Code	Message
 ___________________________________________
-2024-05-25 09:01:31.676 	 0 	 Logging setup successful! Checking imports... 
-2024-05-25 09:01:31.903 	 12 	 Import successful! 
-2024-05-25 09:01:31.904 	 0 	 datetime formatting successful! Setting variables... 
-2024-05-25 09:01:31.920 	 12 	 Variable setting successful! Starting loop... 
-2024-05-25 09:01:31.920 	 6 	 Loop started successfully! Program running... 
-2024-05-25 09:01:31.920 	 9 	 Cursor moved 
-2024-05-25 09:01:32.021 	 9 	 Cursor moved 
-2024-05-25 09:01:32.123 	 9 	 Cursor moved 
-2024-05-25 09:01:32.225 	 8 	 Cursor not moved 
-2024-05-25 09:01:32.328 	 8 	 Cursor not moved 
-2024-05-25 09:01:32.434 	 8 	 Cursor not moved 
-2024-05-25 09:01:32.536 	 8 	 Cursor not moved 
-2024-05-25 09:01:32.645 	 9 	 Cursor moved 
-2024-05-25 09:01:32.749 	 9 	 Cursor moved 
-2024-05-25 09:01:32.851 	 8 	 Cursor not moved 
-2024-05-25 09:01:32.953 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.056 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.158 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.260 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.366 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.468 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.570 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.673 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.776 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.878 	 8 	 Cursor not moved 
-2024-05-25 09:01:33.984 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.086 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.188 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.290 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.393 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.495 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.601 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.703 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.806 	 8 	 Cursor not moved 
-2024-05-25 09:01:34.908 	 8 	 Cursor not moved 
-2024-05-25 09:01:35.010 	 8 	 Cursor not moved 
-2024-05-25 09:01:35.019 	 7 	 Loop stopped successfully! Program exiting... 
-2024-05-25 09:01:35.019 	 5 	 User exited program by keyboard interrupt.
-Logging ended: 2024-05-25 09:01:35.019,  
-End of log 
-
-
-Logging started: 2024-05-25 09:05:27.855
-___________________________________________
-Date Time 		 Code	Message
-___________________________________________
-2024-05-25 09:05:27.856 	 0 	 Logging setup successful! Checking imports... 
-2024-05-25 09:05:28.086 	 12 	 Import successful! 
-2024-05-25 09:05:28.086 	 0 	 datetime formatting successful! Setting variables... 
-2024-05-25 09:05:28.102 	 12 	 Variable setting successful! Starting loop... 
-2024-05-25 09:05:28.102 	 6 	 Loop started successfully! Program running... 
-2024-05-25 09:05:28.102 	 8 	 Cursor not moved 
-2024-05-25 09:05:28.203 	 9 	 Cursor moved 
-2024-05-25 09:05:28.305 	 9 	 Cursor moved 
-2024-05-25 09:05:28.407 	 9 	 Cursor moved 
-2024-05-25 09:05:28.509 	 8 	 Cursor not moved 
-2024-05-25 09:05:28.612 	 9 	 Cursor moved 
-2024-05-25 09:05:28.717 	 9 	 Cursor moved 
-2024-05-25 09:05:28.825 	 9 	 Cursor moved 
-2024-05-25 09:05:28.926 	 9 	 Cursor moved 
-2024-05-25 09:05:29.028 	 8 	 Cursor not moved 
-2024-05-25 09:05:29.132 	 9 	 Cursor moved 
-2024-05-25 09:05:29.235 	 9 	 Cursor moved 
-2024-05-25 09:05:29.337 	 9 	 Cursor moved 
-2024-05-25 09:05:29.440 	 9 	 Cursor moved 
-2024-05-25 09:05:29.542 	 8 	 Cursor not moved 
-2024-05-25 09:05:29.643 	 8 	 Cursor not moved 
-2024-05-25 09:05:29.744 	 8 	 Cursor not moved 
-2024-05-25 09:05:29.846 	 8 	 Cursor not moved 
-2024-05-25 09:05:29.952 	 8 	 Cursor not moved 
-2024-05-25 09:05:30.054 	 9 	 Cursor moved 
-2024-05-25 09:05:30.155 	 9 	 Cursor moved 
-2024-05-25 09:05:30.258 	 9 	 Cursor moved 
-2024-05-25 09:05:30.360 	 9 	 Cursor moved 
-2024-05-25 09:05:30.463 	 9 	 Cursor moved 
-2024-05-25 09:05:30.565 	 9 	 Cursor moved 
-2024-05-25 09:05:30.669 	 9 	 Cursor moved 
-2024-05-25 09:05:30.772 	 9 	 Cursor moved 
-2024-05-25 09:05:30.875 	 9 	 Cursor moved 
-2024-05-25 09:05:30.977 	 9 	 Cursor moved 
-
-
-Logging started: 2024-05-25 09:06:47.789
-___________________________________________
-Date Time 		 Code	Message
-___________________________________________
-2024-05-25 09:06:47.789 	 0 	 Logging setup successful! Checking imports... 
-2024-05-25 09:06:47.789 	 14 	 !RELAX THIS ISN'T A VIRUS, YOU JUST DIDN'T FOLLOW THE INSTRUCTIONS CORRECTLY!
-
-
-
-What's wrong then?    
-
-    pyautoGUI failed to import!
-
-What is pyautoGUI?
-
-    pyautoGUI is a library (see https://www.linkedin.com/pulse/python-libraries-comprehensive-guide-most-widely-used-ajay-tiwari-8o5ic/)
-
-    In this program, it is what moves the mouse around the screen.
-
-Okay... How do I get it?
-
-    Press and hold the windows key, at the same time press R, then type in "powershell" and press enter.
-    
-    Paste the following command into the powershell window and press enter:
-    
-    PowerShell.exe -ExecutionPolicy Bypass -File .\install_mouse_mover.ps1
-    
-    Please run install_mouse_mover.ps1 which can be found in the same directory as this script, as it was downloaded.
-    
-    If you cannot find 
-
-    The installer is designed to run in many Windows environments, and should fully setup this program to be run as expected.
-
-    The installer is designed to run in corporate environments, where there may be complications to installing software.
-
-    It will also run as expected on a personal computer.
-
-    This program will NOT run correctly without running the installer.
-
-
-Logging ended: 2024-05-25 09:06:47.789
+2024-05-25 09:49:40.083 	 0 	 Logging setup successful! Checking imports... 
+2024-05-25 09:49:40.511 	 12 	 Import successful! 
+2024-05-25 09:49:40.512 	 0 	 datetime formatting successful! Setting variables... 
+2024-05-25 09:49:40.526 	 12 	 Variable setting successful! Starting loop... 
+2024-05-25 09:49:40.526 	 6 	 Loop started successfully! Program running... 
+2024-05-25 09:49:40.526 	 8 	 Cursor not moved 
+2024-05-25 09:49:40.628 	 9 	 Cursor moved 
+2024-05-25 09:49:40.729 	 9 	 Cursor moved 
+2024-05-25 09:49:40.832 	 9 	 Cursor moved 
+2024-05-25 09:49:40.934 	 8 	 Cursor not moved 
+2024-05-25 09:49:41.039 	 9 	 Cursor moved 
+2024-05-25 09:49:41.141 	 9 	 Cursor moved 
+2024-05-25 09:49:41.243 	 9 	 Cursor moved 
+2024-05-25 09:49:41.345 	 9 	 Cursor moved 
+2024-05-25 09:49:41.446 	 9 	 Cursor moved 
+2024-05-25 09:49:41.546 	 9 	 Cursor moved 
+2024-05-25 09:49:41.647 	 9 	 Cursor moved 
+2024-05-25 09:49:41.749 	 9 	 Cursor moved 
+2024-05-25 09:49:41.850 	 9 	 Cursor moved 
+2024-05-25 09:49:41.953 	 8 	 Cursor not moved 
+2024-05-25 09:49:42.058 	 8 	 Cursor not moved 
+2024-05-25 09:49:42.160 	 9 	 Cursor moved 
+2024-05-25 09:49:42.263 	 8 	 Cursor not moved 
+2024-05-25 09:49:42.365 	 8 	 Cursor not moved 
+2024-05-25 09:49:42.467 	 8 	 Cursor not moved 
+2024-05-25 09:49:42.475 	 7 	 Loop stopped successfully! Program exiting... 
+2024-05-25 09:49:42.475 	 5 	 User exited program by keyboard interrupt.
+Logging ended: 2024-05-25 09:49:42.475,  
 End of log 
