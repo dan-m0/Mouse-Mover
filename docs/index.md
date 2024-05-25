@@ -177,15 +177,10 @@ If the error code isn't here, please [report a bug][report-a-bug-url]
 |13   |datetime formatting   |Part of the initial startup   |
 |14   |autogui import failure   |pyautogui isn't installed - this is essential for the program. Please see [the setup][setup] section   |
 
-12 - variables set
-
-13 - datetime formatting
-
-14 - autogui import failure
 
 ## Compatibility
 
-TODO
+Coming soon!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
