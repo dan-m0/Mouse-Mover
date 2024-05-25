@@ -1,8 +1,9 @@
 ---
 name: "Windwow CLI: Bug report \U0001F41E"
 about: Create a bug report
-labels: bug, "Windows>CLI"
-tite: "Windows CLI  Issue: <REPLACE THIS WITH A *SHORT* SUMMARY>"
+title: ''
+labels: bug
+assignees: ''
 
 ---
 

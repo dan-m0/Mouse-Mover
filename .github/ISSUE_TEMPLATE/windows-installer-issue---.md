@@ -1,8 +1,9 @@
 ---
-name: "Windows CLI Installer: Bug report"
+name: 'Windows CLI Installer: Bug report'
 about: Create a bug report
-labels: bug, "Windows>CLI Installer"
-tite: "Windows CLI Installer Issue: <REPLACE THIS WITH A *SHORT* SUMMARY>"
+title: ''
+labels: bug
+assignees: ''
 
 ---
 
