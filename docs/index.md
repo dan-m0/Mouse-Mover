@@ -20,12 +20,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div align="center">
-  <a href="https://github.com/nyxtryx/Mouse-Mover/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
-
 <div>
   <h3 align="center">Idle Blocker</h3>
 
