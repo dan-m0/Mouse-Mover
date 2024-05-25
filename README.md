@@ -37,7 +37,7 @@
   <p align="center">
     A  program to prevent idle mode in applications, such as MS Teams
     <br />
-    <a href="https://nyxtryx.github.io/Mouse-Mover/guides/guides">User Guides</a>
+    <a href="https://nyxtryx.github.io/Mouse-Mover/guides/index">User Guides</a>
     ·
     <a href="https://nyxtryx.github.io/mouse-mover/guides/report-a-bug">Report Bug</a>
     ·
@@ -304,6 +304,6 @@ Please also see https://github.com/nyxtryx/mouse-mover/blob/master/images/credit
 [license-url]: https://github.com/nyxtryx/mouse-mover/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dan-mcc/
-[windows-cli-install-guide]: https://nyxtryx.github.io/Mouse-Mover/guides/windows-cli-installer/windows-cli-install
-[bug-reporting]: https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug/report-a-bug
+[windows-cli-install-guide]: https://nyxtryx.github.io/Mouse-Mover/guides/windows-cli-install
+[bug-reporting]: https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug
 [setup]: https://nyxtryx.github.io/Mouse-Mover#setup
