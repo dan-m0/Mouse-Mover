@@ -2,7 +2,7 @@
 name: "Windwow CLI: Bug report"
 about: Create a bug report
 title: ''
-labels: bug, "Windows>CLI"
+labels: bug, Windows>CLI
 assignees: ''
 
 ---
