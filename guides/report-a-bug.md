@@ -18,7 +18,7 @@ Issues with the Windows command line program: [here][windows-cli-issue]
 
 Any other issue (PLEASE LABEL CORRECTLY): [here][general-bug]
 
-[windows-cli-issue]: https://github.com/nyxtryx/mouse-mover/issues/new?labels=bug&windows-cli-issue---.md
-[windows-installer-issue]: https://github.com/nyxtryx/mouse-mover/issues/new?labels=bug&windows-installer-issue---.md
-[feature-request]: https://github.com/nyxtryx/mouse-mover/issues/new?labels=request?feature-request---.md
-[general-bug]: https://github.com/nyxtryx/mouse-mover/issues/new?labels=bug?bug-report---.md
+[windows-cli-issue]: https://github.com/nyxtryx/mouse-mover/issues/new?assignees=&labels=bug%2C+Windows%3ECLI&projects=&template=windows-cli-issue---.md&title=
+[windows-installer-issue]: https://github.com/nyxtryx/mouse-mover/issues/new?assignees=&labels=bug%2C+Windows%3ECLI+Installer&projects=&template=windows-installer-issue---.md&title=
+[feature-request]: https://github.com/nyxtryx/mouse-mover/issues/new?assignees=&labels=enhancement&projects=&template=feature-request---.md&title=
+[general-bug]: https://github.com/nyxtryx/mouse-mover/issues/new?assignees=&labels=bug&projects=&template=bug-report---.md&title=
