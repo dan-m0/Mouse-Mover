@@ -1,0 +1,11 @@
+.venv
+*.exe
+.pyc
+__pycache__
+*.png
+*.pdf
+*.pptx
+.dev
+mac/
+venvs/
+.DS_Store
