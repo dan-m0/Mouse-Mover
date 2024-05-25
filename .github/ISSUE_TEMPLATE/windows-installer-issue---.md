@@ -2,7 +2,7 @@
 name: 'Windows CLI Installer: Bug report'
 about: Create a bug report
 title: ''
-labels: bug, "Windows>CLI Installer"
+labels: bug, Windows>CLI Installer
 assignees: ''
 
 ---
