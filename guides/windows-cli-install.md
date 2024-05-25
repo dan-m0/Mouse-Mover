@@ -17,13 +17,8 @@ To use the Windows command line tool follow these steps
 
 ## It didn't work!
 
-If the installer doesn't work, [see here][windows-installer-issue]
-
-
-If the program itself doesn't work, [see here][windows-cli-issue]
+See [here](https://github.com/nyxtryx/mouse-mover/blob/main/guides/report-a-bug.md)
 
 NB. Any issues created about this page which relate to the installer will be closed - please label such issues as "Windows>CLI-Installer"
 
-[windows-cli-download-url]: https://github.com/nyxtryx/mouse-mover/blob/master/windows/ "Download Windows CLI"
-[windows-installer-issue]: https://github.com/nyxtryx/mouse-mover/blob/guides/report-a-bug.md
-[windows-cli-issue]: https://github.com/nyxtryx/mouse-mover/blob/guides/report-a-bug.md
+[windows-cli-download-url]: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fnyxtryx%2Fmouse-mover%2Ftree%2Fmain%2Fwindows "Download Windows CLI"
