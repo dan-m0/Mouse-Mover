@@ -8,31 +8,22 @@ It is YOUR responsibility to check your company's IT policy allows you to instal
 Please read the license; contributors to this program are NOT liable in the event of any losses.
 ```
 
-1. Download [these files]()
+1. Download [these files](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fnyxtryx%2FMouse-Mover%2Ftree%2Fmain%2Fmac)
 2. Go to where you saved the files
 3. At the bottom of the Finder window, right click on mac
 4. Select Open in Terminal
 5. Paste this and press enter: /bin/bash 
-    5.1. This is temporary!
+    1. This is temporary!
 6. Paste this and press enter: chmod -x mac-installer.bash
-
-    6.1. This allows the installer to run in executable mode (-x)
-
-    6.2. For more information, instead paste this an press enter: man chmod
-
-        6.2.1. Scroll with the arrow keys
-
-        6.2.2. To exit, press control+Z
-        
-        6.2.3. When you are ready, go back to step 6.
-
+    1. This allows the installer to run in executable mode (-x)
+    2. For more information, instead paste this and press enter: man chmod
+        1. Scroll with the arrow keys
+        2. To exit, press control+Z
+        3. When you are ready, go back to step 6.
 7. You will be prompted for your password - the installer will need to make changes to setup correctly
 8. Paste this and press enter: ./mac-installer.bash
-
-    8.1. The installer will tell you what to do if there are errors.
-
-    8.2. You will be prompted to allow system event access, this is  for logging the installer process
-
+    1. The installer will tell you what to do if there are errors.
+    2. You will be prompted to allow system event access, this is  for logging the installer process
 6. Close the terminal
 7. Right click on mouse_mover.py
 8. Open With >

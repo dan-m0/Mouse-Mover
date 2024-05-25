@@ -39,9 +39,9 @@
     <br />
     <a href="https://nyxtryx.github.io/Mouse-Mover/guides/index">User Guides</a>
     ·
-    <a href="https://nyxtryx.github.io/mouse-mover/guides/report-a-bug">Report Bug</a>
+    <a href="https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug">Report Bug</a>
     ·
-    <a href="https://nyxtryx.github.io/mouse-mover/guides/report-a-bug">Request Feature</a>
+    <a href="https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,6 @@
         <li><a href='#windows-setup'>Windows</a></li>
         <li><a href='#macos-setup'>MacOS</a></li>
     </ul>
-    <li><a href="#usage">Usage</a></li>
     <li><a href='#log-codes'>Log Codes</a></li>
     <li><a href='#compatibility'>Compatibility</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -84,100 +83,14 @@ If you move the mouse, the program pauses.
 
 # Setup
 
-Please follow the below steps for your system
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Windows Setup
-
-### Command line
-<br />
-
-Please see [here][windows-cli-install-guide]
+[Installation Instructions](https://nyxtryx.github.io/Mouse-Mover/)
 
 <br />
-<br />
-
-### Graphical User Interface
-
-Coming soon!
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## MacOS Setup
-
-### Command line
-<br />
-
-Coming soon!
-<br />
-<br />
-### Graphical User Interface
-<br/>
-Coming soon!
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<br />
-
-# Usage
-
-Please see below for usage instructions
-
-## Windows Usage
-### Command line
-<br />
-
-Coming soon!
-<br />
-<br />
-### Graphical User Interface
-<br/>
-Coming soon!
-
-## MacOS Usage
-<br />
-  ### Command line
-<br />
-
-Coming soon!
-<br />
-<br />
-### Graphical User Interface
-<br/>
-Coming soon!
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Log Codes
 
-If you encounter an error, you will find the error code and a brief description in the log file.
-
-Please see the below table for the full list and an explanation.
-
-If the error code isn't here, please [report a bug][report-a-bug-url]
-
-|Code   |Name   |Explanation   |
-|---|---|---|
-|0   |Log setup   |The logging file has been created in PWD/logging   |
-|1  |Undefined error   |An unexpected error occured, please [report this][bug-reporting]   |
-|2  |Installer aborted | You cancelled the installer when asked if you wanted to continue  |
-|3  |winget fails   |The Windows installer failed to automatically install winget - follow the prompt on screen   |  
-|4  |Python fails   |The Windows installer failed to automatically install python, this may be related to Code:2 - follow the prompt on screen   |
-|5   |Keyboard interrupt   |You pressed Ctrl+C to close the program   |
-|6   |Loop started   |The main program loop has started - the program will run until closed   |
-|7   |Loop stopped   |The loop stopped  |
-|8   |Cursor moved   |The cursor has been moved because you weren't using it, so you're probably not there   |
-|9   |Cursor not moved   |The cursor hasn't been moved, because you were using it, so you're probably there   |
-|10   |Cursor moved to new position   |Related to Code:8 - this indicates that the specific part of the code to move the mouse worked   |
-|11  |Cursor moved to last position   |Related to Code:8 - this indicates that the specific part of the code to move the mouse worked   |
-|12   |Variables set   |Part of the initial startup   |
-|13   |datetime formatting   |Part of the initial startup   |
-|14   |autogui import failure   |pyautogui isn't installed - this is essential for the program. Please see [the setup][setup] section   |
+(Log Codes)[https://nyxtryx.github.io/Mouse-Mover/guides/log-codes]
 
 ## Compatibility
 
@@ -189,57 +102,7 @@ Coming soon!
 ## Roadmap
 <!-- ❌   ✅  �-->
 
-Items will be marked with ✅ when either I, or someone else, has confirmed they work correctly.
 
-If a feature cannot be implimented it will be marked with ❌
-
-If a feature has been superseded by a better feature, it will be marked with �
-
-
-If a feature doesn't work as expected, please [report this here][bug-reporting]
-
-<details><summary>Windows</summary>
-- [x] Windows CLI Mouse Mover
-<br />
-<br />
-- [ ] Windows GUI to start/stop without killing the script
-<br />
-<br />
-- [x] Windows instaler by PowerShell script
-  - [x] Move script if not in C:/users/%Username%/Documents - this will allow an updating tool later
-  - [x] Install Python if not found
-  - [ ] pip install pyautogui
-    - [ ] Use --trusted-host pip flag to override SSL certificate issues (this may be necessary in some environments, notably corporate managed networks may strip the SSL certificates)
-  - [ ] Offer to create desktop and start menu shortcuts
-  - [ ] Cleanup installer
-<br />
-<br />
-- [ ] Windows updating tool
-<br />
-<br />
-</details>
-
-<br />
-<br />
-
-<details><summary>MacOS</summary>
-- [ ] MacOS CLI Mouse Mover
-<br />
-<br />
-- [ ] MacOS GUI to start/stop without killing the script
-<br />
-<br />
-- [ ] MacOS installer
-  - [ ] Move script if not in /users/%Username%/Documents - this will allow an updating tool later
-  - [ ] Install Python if not found
-  - [ ] pip install pyautogui
-    - [ ] Use --trusted-host pip flag to override SSL certificate issues (this may be necessary in some environments, notably corporate managed networks may strip the SSL certificates)
-  - [ ] Offer to create desktop and start menu shortcuts
-  - [ ] Cleanup installer
-<br />
-<br />
-- [ ] MacOS updating tool
-</details>
 
 <br />
 <br />

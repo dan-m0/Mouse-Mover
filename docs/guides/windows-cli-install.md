@@ -10,17 +10,11 @@ Please read the license; contributors to this program are NOT liable in the even
 
 ## Installation steps
 1. Download [Download Windows folder][windows-cli-download-url] and save into your downloads folder
-
-2. Run install_mouse_mover.ps1
-
-    2.1. If the installer fails to run:
-
-    2.2. Press and hold the Windows key at the same time, press R
-
-    2.3. Paste this, then press enter: PowerShell.exe -ExecutionPolicy Bypass -File %USERPROFILE%\Downloads\windows\install_mouse_mover.ps1
-
-    2.4. This will bypass any group policy preventing code execution, **only** for this file (ie it is not permanent)
-
+2. Double click on install_mouse_mover.ps1
+    1. If the installer fails to run:
+    2. Press and hold the Windows key at the same time, press R
+    3. Paste this, then press enter: PowerShell.exe -ExecutionPolicy Bypass -File %USERPROFILE%\Downloads\windows\install_mouse_mover.ps1
+    4. This will bypass any group policy preventing code execution, **only** for this file (ie it is not permanent)
 3. Follow the installer prompts, it will tell you what to do next
 
 Once the program is installed and running, you can close it by closing the window that opens, or selecting the window and pressing Ctrl+C
