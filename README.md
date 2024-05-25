@@ -21,7 +21,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/nyxtryx/Mouse-Mover/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -67,7 +67,7 @@ If you move the mouse, the program pauses.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Setup
-[Installation Instructions](https://nyxtryx.github.io/Mouse-Mover/)
+[Installation Instructions](https://nyxtryx.github.io/Mouse-Mover/guides/index)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,11 +107,11 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [here](https://nyxtryx.github.io/Mouse-Mover/license) for more information.
+Distributed under the MIT License. See [here](https://nyxtryx.github.io/Mouse-Mover/mit-license) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Please also see https://nyxtryx.github.io/Mouse-Mover/credit.txt
+Please also see [credit](https://nyxtryx.github.io/Mouse-Mover/credit.txt)
 
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/nyxtryx/Mouse-Mover.svg?style=for-the-badge
