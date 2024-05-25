@@ -1,5 +1,5 @@
 ---
-name: "Windwow CLI: Bug report"
+name: "Windows CLI: Bug report"
 about: Create a bug report
 title: ''
 labels: bug, Windows>CLI
