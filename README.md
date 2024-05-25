@@ -38,7 +38,7 @@
     ·
     <a href="https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug">Request Feature</a>
     ·
-    <a href="https://nyxtryx.github.io/Mouse-Mover/license">License</a>
+    <a href="https://nyxtryx.github.io/Mouse-Mover/mit-license">License</a>
 
   </p>
 </div>

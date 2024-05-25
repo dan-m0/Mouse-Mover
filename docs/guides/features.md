@@ -22,9 +22,6 @@ If a feature doesn't work as expected, please [report this here](https://nyxtryx
 <br />
 </details>
 
-<br />
-<br />
-
 <details><summary>MacOS</summary>
 - ✅ MacOS CLI Mouse Mover
 <br />
