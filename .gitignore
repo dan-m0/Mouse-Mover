@@ -7,4 +7,3 @@ __pycache__
 .dev
 venvs/
 .DS_Store
-logging/

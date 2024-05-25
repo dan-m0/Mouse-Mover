@@ -22,4 +22,4 @@ If the error code isn't here, please [report a bug][report-a-bug-url]
 |13   |datetime formatting   |Part of the initial startup   |NO|
 |14   |autogui import failure   |pyautogui isn't installed - this is essential for the program. Please see [the setup][setup] section   |YES|
 
-If an item is marked as a problem, either [report it](https://nyxtryx.github.io/mouse-mover/guides/report-a-bug) or follow the installation instructions to resolve the problem.
+If an item is marked as a problem, either [report it](https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug) or follow the installation instructions to resolve the problem.
