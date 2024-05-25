@@ -27,7 +27,7 @@ Once the program is installed and running, you can close it by closing the windo
 
 ## It didn't work!
 
-See [here](https://github.com/nyxtryx/mouse-mover/blob/main/guides/report-a-bug.md)
+See [here](https://nyxtryx.github.io/Mouse-Mover/guides/report-a-bug)
 
 NB. Any issues created about this page which relate to the installer will be closed - please label such issues as "Windows>CLI-Installer"
 
