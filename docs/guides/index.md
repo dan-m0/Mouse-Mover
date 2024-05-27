@@ -1,5 +1,16 @@
 # User Guides
 
+-----
+
+# WARNING
+
+<strong>
+It is YOUR responsibility to check your company's IT policy allows you to install programs.
+
+Please read the license; contributors to this program are NOT liable in the event of any losses.
+</strong>
+
+-----
 
 
 ## Bug Reporting
