@@ -1,12 +1,22 @@
 If you do not wish to run the installers, use this guide.
 
-## WARNING
+-----
+
+# WARNING
+
+<strong>
+It is YOUR responsibility to check your company's IT policy allows you to install programs.
+
+Please read the license; contributors to this program are NOT liable in the event of any losses.
+</strong>
+
+-----
 
 I will **NOT** provide further support with this process.
 
-I have created installers to automatically do this for users, which are intentinoally designed to bypass any group policy restrictions.
+I have created installers to automatically do this for users.
 
-**ANY** issues raised asking for help this process will be closed!
+**ANY** issues raised asking for help this process will be closed.
 <br />
 <br />
 ## Installation
