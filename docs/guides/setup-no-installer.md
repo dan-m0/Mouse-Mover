@@ -1,5 +1,7 @@
 If you do not wish to run the installers, use this guide.
 
+See the below warning, and the [license](https://nyxtryx.github.io/Mouse-Mover/mit-license) for liability limitation.
+
 -----
 
 # WARNING
