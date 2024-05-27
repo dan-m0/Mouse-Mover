@@ -1,12 +1,16 @@
 To use the Windows command line tool follow these steps
 
-## PLEASE NOTE
+-----
 
-```
+# WARNING
+
+<strong>
 It is YOUR responsibility to check your company's IT policy allows you to install programs.
 
 Please read the license; contributors to this program are NOT liable in the event of any losses.
-```
+</strong>
+
+-----
 
 ## Installation steps
 1. Download [Download Windows folder][windows-cli-download-url] and save into your downloads folder
