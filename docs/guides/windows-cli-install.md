@@ -1,4 +1,14 @@
-To use the Windows command line tool follow these steps
+Use the below guide to install on Windows OS.
+
+This has **ONLY** been tested on Windows 10.
+
+This has been tested as a local user, and works as expected.
+
+This **WILL** bypass group policy restrictions on code execution, and UAC installation limitations.
+
+Neither of these are permanent, and both are actions you could carry out yourself if you know how.
+
+See the below warning, and the [license](https://nyxtryx.github.io/Mouse-Mover/mit-license) for liability limitation.
 
 -----
 
