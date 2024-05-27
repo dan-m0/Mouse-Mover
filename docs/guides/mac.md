@@ -1,12 +1,18 @@
-Please follow the below steps
+Please follow the below steps for MacOS - this has **ONLY** been tested as a user with sudo access.
 
-## PLEASE NOTE
+Feel free to fork and update if this doesn't work without sudo access and you know a way around that.
 
-```
+-----
+
+# WARNING
+
+<strong>
 It is YOUR responsibility to check your company's IT policy allows you to install programs.
 
 Please read the license; contributors to this program are NOT liable in the event of any losses.
-```
+</strong>
+
+-----
 
 1. Download [these files](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fnyxtryx%2FMouse-Mover%2Ftree%2Fmain%2Fmac)
     1. You will need a GitHub account for this
